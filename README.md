@@ -4,7 +4,7 @@
 
 Acesse o diretório do projeto e configure o ambiente virtual:
 ```
-cd /home/moises/tv-project
+cd /LariBot
 python3 -m venv venv
 source venv/bin/activate
 ```
